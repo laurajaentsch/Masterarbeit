@@ -1,0 +1,7 @@
+ID; Date; Success; RotationDegree; ThrowDegree; StrenghValue; Direction
+16; 2025-02-19 10:37:34; False; 202.72; 13.56; 0.00; links
+16; 2025-02-19 10:37:45; False; 197.93; 8.14; 0.00; links
+16; 2025-02-19 10:37:52; False; 355.21; 5.55; 0.00; links
+16; 2025-02-19 10:37:56; True; 347.89; 4.38; 0.00; links
+16; 2025-02-19 10:38:00; True; 8.01; 7.54; 0.00; rechts
+16; 2025-02-19 10:38:03; False; 143.94; 20.81; 0.00; links
