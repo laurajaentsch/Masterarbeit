@@ -1,0 +1,164 @@
+{
+  "VR-Mean_Distance": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 1.0,
+    "significant": false,
+    "p-normality": NaN,
+    "gender": "gesamt",
+    "size": 2,
+    "objective": "Mean_Distance"
+  },
+  "VR-m-Mean_Distance": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 1.0,
+    "significant": false,
+    "p-normality": NaN,
+    "gender": "m",
+    "size": 2,
+    "objective": "Mean_Distance"
+  },
+  "VR-w-Mean_Distance": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": NaN,
+    "significant": false,
+    "p-normality": NaN,
+    "gender": "w",
+    "size": 0,
+    "objective": "Mean_Distance"
+  },
+  "RL-Mean_Distance": {
+    "test": "Paired t-test",
+    "p_value": 2.1951581933561293e-05,
+    "significant": true,
+    "p-normality": 0.07367034969928028,
+    "gender": "gesamt",
+    "size": 28,
+    "objective": "Mean_Distance"
+  },
+  "RL-m-Mean_Distance": {
+    "test": "Paired t-test",
+    "p_value": 0.0002828622688798721,
+    "significant": true,
+    "p-normality": 0.10525654898684804,
+    "gender": "m",
+    "size": 17,
+    "objective": "Mean_Distance"
+  },
+  "RL-w-Mean_Distance": {
+    "test": "Paired t-test",
+    "p_value": 0.03424916190812431,
+    "significant": true,
+    "p-normality": 0.2521663825114246,
+    "gender": "w",
+    "size": 11,
+    "objective": "Mean_Distance"
+  },
+  "Kontrollgruppe-Mean_Distance": {
+    "test": "Paired t-test",
+    "p_value": 0.9041037118389808,
+    "significant": false,
+    "p-normality": 0.5338815541844633,
+    "gender": "gesamt",
+    "size": 6,
+    "objective": "Mean_Distance"
+  },
+  "Kontrollgruppe-m-Mean_Distance": {
+    "test": "Paired t-test",
+    "p_value": 0.9041037118389808,
+    "significant": false,
+    "p-normality": 0.5338815541844633,
+    "gender": "m",
+    "size": 6,
+    "objective": "Mean_Distance"
+  },
+  "Kontrollgruppe-w-Mean_Distance": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": NaN,
+    "significant": false,
+    "p-normality": NaN,
+    "gender": "w",
+    "size": 0,
+    "objective": "Mean_Distance"
+  },
+  "VR-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.000390087396415458,
+    "significant": true,
+    "p-normality": 0.019720438214519687,
+    "gender": "gesamt",
+    "size": 29,
+    "objective": "Mean_Catch"
+  },
+  "VR-w-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.09375,
+    "significant": false,
+    "p-normality": 0.027521678352647034,
+    "gender": "w",
+    "size": 13,
+    "objective": "Mean_Catch"
+  },
+  "VR-m-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.0003587607531604498,
+    "significant": true,
+    "p-normality": 0.10709354984992264,
+    "gender": "m",
+    "size": 16,
+    "objective": "Mean_Catch"
+  },
+  "RL-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 3.4708076274507217e-07,
+    "significant": true,
+    "p-normality": 6.263179911105596e-05,
+    "gender": "gesamt",
+    "size": 47,
+    "objective": "Mean_Catch"
+  },
+  "RL-w-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.0006434854148379289,
+    "significant": true,
+    "p-normality": 0.004575309065056696,
+    "gender": "w",
+    "size": 22,
+    "objective": "Mean_Catch"
+  },
+  "RL-m-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.00012335379094512622,
+    "significant": true,
+    "p-normality": 0.002010953827351339,
+    "gender": "m",
+    "size": 25,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.03125,
+    "significant": true,
+    "p-normality": 0.03151421125114633,
+    "gender": "gesamt",
+    "size": 11,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-w-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.16396948772964853,
+    "significant": false,
+    "p-normality": 0.42164309092687147,
+    "gender": "w",
+    "size": 4,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-m-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.1377765302618486,
+    "significant": false,
+    "p-normality": 0.471932881906985,
+    "gender": "m",
+    "size": 7,
+    "objective": "Mean_Catch"
+  }
+}

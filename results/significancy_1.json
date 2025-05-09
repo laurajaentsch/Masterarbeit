@@ -1,0 +1,74 @@
+{
+  "VR": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.00126902887605512,
+    "significant": true,
+    "p-normality": 7.418259396872677e-05,
+    "gender": "gesamt",
+    "size": 30
+  },
+  "VR-w": {
+    "test": "Paired t-test",
+    "p_value": 0.05098390667873142,
+    "significant": false,
+    "p-normality": 0.39988092000031267,
+    "gender": "w",
+    "size": 14
+  },
+  "VR-m": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.010415362043320383,
+    "significant": true,
+    "p-normality": 0.0044047653972821635,
+    "gender": "m",
+    "size": 16
+  },
+  "RL": {
+    "test": "Paired t-test",
+    "p_value": 8.632114706031053e-12,
+    "significant": true,
+    "p-normality": 0.051745415633475456,
+    "gender": "gesamt",
+    "size": 47
+  },
+  "RL-w": {
+    "test": "Paired t-test",
+    "p_value": 3.5991786732078546e-07,
+    "significant": true,
+    "p-normality": 0.42400666540007587,
+    "gender": "w",
+    "size": 22
+  },
+  "RL-m": {
+    "test": "Paired t-test",
+    "p_value": 7.362318258126758e-06,
+    "significant": true,
+    "p-normality": 0.10246167141609443,
+    "gender": "m",
+    "size": 25
+  },
+  "Kontrollgruppe": {
+    "test": "Paired t-test",
+    "p_value": 0.07354505269465451,
+    "significant": false,
+    "p-normality": 0.34447490156188404,
+    "gender": "gesamt",
+    "size": 12
+  },
+  "Kontrollgruppe-w": {
+    "test": "Paired t-test",
+    "p_value": 0.5433754906300348,
+    "significant": false,
+    "p-normality": 0.3951645950295868,
+    "gender": "w",
+    "size": 5
+  },
+  "Kontrollgruppe-m": {
+    "test": "Paired t-test",
+    "p_value": 0.057795182447010505,
+    "significant": false,
+    "p-normality": 0.20103963360864024,
+    "gender": "m",
+    "size": 7
+  }
+}
