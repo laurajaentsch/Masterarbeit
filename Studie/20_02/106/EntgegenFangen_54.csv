@@ -1,0 +1,5 @@
+ID; Date; Success; Distance; Fall Velocity; Pass Time
+54; 2025-02-20 08:26:55; False; 0,72; 0,00; 1,50
+54; 2025-02-20 08:27:26; False; 8,50; 0,00; 1,50
+54; 2025-02-20 08:28:42; True; 1,33; 0,00; 1,50
+54; - ;Reset Count; 17

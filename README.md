@@ -1,0 +1,68 @@
+## Untersuchung des Trainingseffekts der koordinativen Fähigkeiten im Kindes- und Jugendalter im Kontext Schule unter Einsatz von Virtual Reality Brillen
+
+<p align="justify">
+Ein zentraler Aspekt sportlicher Bewegungen sind die koordinativen Fähigkeiten, eine
+Klasse motorischer Fähigkeiten, die durch die Prozesse der Bewegungsregulation bedingt
+sind. Die individuelle Forderung und Förderung der koordinativen Fähigkeiten im Kontext
+des Sportunterrichts kann durch die begrenzte Zeit und durch eingeschränkte Motivation
+der Schülerinnen und Schüler zu Schwierigkeiten führen. Ein neues Medium, die Virtual
+Reality Brille, könnte dort ansetzen und als Werkzeug zur Unterstützung des motorischen
+Lernens etabliert werden. Die Technologie ermöglicht realitätsnahe Szenarien in einer
+sicheren Umgebung zu simulieren, in welcher die Nutzenden konkrete Bewegungsabläufe
+üben und gezieltes Feedback erhalten können. Verschiedene Studien konnten bereits
+positive Erfolge mit Virtual Reality Brillen verzeichnen, beispielsweise konnten die
+grobmotorischen Fähigkeiten bei Kindern mit Zerebralparese verbessert werden (Ren &
+Wu, 2019). Das Forschungsgebiet der Virtual Reality ist ein vergleichsmäßig junges und
+noch nicht ausreichend erforschtes Gebiet, weshalb die vorliegende Arbeit darauf abzielt,
+neue Erkenntnisse für den Schulsport, die Sportdidaktik sowie die Trainings- und
+Bewegungslehre zu erwerben. Dafür untersucht die Masterarbeit den Trainingseffekt der
+koordinativen Fähigkeiten im Kindes- und Jugendalter in der Schule durch den Einsatz von
+Virtual Reality Brillen. Es wurden fünf Schulklassen (151 Kinder) eines Berliner Gymnasiums
+über vier Wochen hinweg besucht. Die Klassen wurden in drei Gruppen aufgeteilt: Virtual-
+Reality-Gruppe (VR-Gruppe), Real-Life-Gruppe (RL-Gruppe) sowie die Kontrollgruppe
+(KG). Insgesamt mussten die Gruppen vier verschiedene Übungen an vier Messzeitpunkten
+absolvieren. Die VR-Gruppe führte diese mit, die RL-Gruppe und die KG ohne Virtual Reality
+Brillen durch. Die KG hatte im Vergleich zu den anderen beiden Gruppen keine Übungszeit.
+Alle drei Gruppen verbesserten sich bei jeder Übung, wobei sich nur die RL-Gruppe in jeder
+einzelnen Übung signifikant verbessert hat. Die VR-Gruppe blieb bei allen Übungen auf
+einem geringeren Leistungsniveau als die anderen beiden Gruppen. Die KG verbesserte
+sich signifikant bei Übung zwei, bei der Fangrate bei Übung drei sowie bei Übung vier. Die
+VR-Gruppe verbesserte sich bei Übung eins, Übung zwei und der Fangrate bei Übung vier
+signifikant. Bei der Übung drei und der Distanz bei Übung vier konnte sich die VR-Gruppe
+nicht signifikant verbessern, jedoch war auch dort ein Trainingseffekt sichtbar. Insgesamt
+deuten die Ergebnisse der durchgeführten Studie darauf hin, dass das Medium der Virtual
+Reality Brille eine geeignete Ergänzung zur Erzielung eines Trainingseffekts der
+koordinativen Fähigkeiten im Kindes- und Jugendalter im Kontext Schule darstellen könnte.
+</p>
+
+## Investigation of the training effect of coordinative skills in children and adolescents in the context of school using virtual reality glasses
+
+<p align="justify">
+A central aspect of sporting movements are the coordinative skills, a class of motor skills
+that are determined by the processes of movement regulation. The individual demand and
+promotion of coordinative skills in the context of physical education can lead to difficulties
+due to the limited time and limited motivation of the pupils. A new medium, virtual reality
+glasses, could address this and be established as a tool to support motor learning. The
+technology makes it possible to simulate realistic scenarios in a safe environment in which
+users can practice specific movement sequences and receive targeted feedback. Various
+studies have already reported positive results with virtual reality glasses, for example the
+virtual reality glasses improved gross motor skills in children with cerebral palsy (Ren and
+Wu, 2019). The research field of virtual reality is comparatively young and not yet sufficiently
+researched, which is why this thesis aims to gain new insights for school sports, sports
+didactics and training and movement theory. To this end, the master's thesis examines the
+training effect of coordinative skills in children and adolescents at school using virtual reality
+glasses. Five classes (151 children) at a Berlin secondary school were visited over a period
+of four weeks. The classes were divided into three groups: Virtual-Reality-group (VR-group),
+Real-Life-group (RL-group) and the control-group (KG). The groups had to complete a total
+of four different exercises at four measurement points. The VR-group was the only group,
+that used virtual reality glasses. The KG had no exercise time compared to the other two
+groups. All three groups improved in every exercise, although only the RL-group improved
+significantly in every single exercise. The VR-group remained at a lower performance level
+than the other two groups in all exercises. The KG improved significantly in exercise two
+and in the catch rate in exercises three and four. The VR-group improved significantly in
+exercise one, exercise two and the catch rate in exercise four. The VR-group did not improve
+significantly in exercise three and the distance in exercise four, but a training effect was also
+visible there. Overall, the results of the study suggest that the medium of virtual reality
+glasses could be a suitable supplement for achieving a training effect on coordinative skills
+in children and adolescents in the context of school.
+</p>

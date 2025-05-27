@@ -1,0 +1,5 @@
+/.venv/
+/figures/
+/data/**.xlsx
+/.DS_Store
+/.idea/

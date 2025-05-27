@@ -1,0 +1,164 @@
+{
+  "VR-Mean_Degree": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.5482756793498993,
+    "significant": false,
+    "p-normality": 0.00028031589674037114,
+    "gender": "gesamt",
+    "size": 26,
+    "objective": "Mean_Degree"
+  },
+  "VR-w-Mean_Degree": {
+    "test": "Paired t-test",
+    "p_value": 0.7786719061106462,
+    "significant": false,
+    "p-normality": 0.2528942843450903,
+    "gender": "w",
+    "size": 10,
+    "objective": "Mean_Degree"
+  },
+  "VR-m-Mean_Degree": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.2978515625,
+    "significant": false,
+    "p-normality": 0.04498415287201574,
+    "gender": "m",
+    "size": 16,
+    "objective": "Mean_Degree"
+  },
+  "RL-Mean_Degree": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 5.290565811704685e-07,
+    "significant": true,
+    "p-normality": 0.00034758029481143747,
+    "gender": "gesamt",
+    "size": 46,
+    "objective": "Mean_Degree"
+  },
+  "RL-w-Mean_Degree": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 6.890035462623111e-05,
+    "significant": true,
+    "p-normality": 0.00017234071287621207,
+    "gender": "w",
+    "size": 21,
+    "objective": "Mean_Degree"
+  },
+  "RL-m-Mean_Degree": {
+    "test": "Paired t-test",
+    "p_value": 0.0005633812950605876,
+    "significant": true,
+    "p-normality": 0.1446563739050773,
+    "gender": "m",
+    "size": 25,
+    "objective": "Mean_Degree"
+  },
+  "Kontrollgruppe-Mean_Degree": {
+    "test": "Paired t-test",
+    "p_value": 0.6491804799807215,
+    "significant": false,
+    "p-normality": 0.06355370074301944,
+    "gender": "gesamt",
+    "size": 8,
+    "objective": "Mean_Degree"
+  },
+  "Kontrollgruppe-w-Mean_Degree": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.5,
+    "significant": false,
+    "p-normality": NaN,
+    "gender": "w",
+    "size": 2,
+    "objective": "Mean_Degree"
+  },
+  "Kontrollgruppe-m-Mean_Degree": {
+    "test": "Paired t-test",
+    "p_value": 0.5269817693835556,
+    "significant": false,
+    "p-normality": 0.42908881965586726,
+    "gender": "m",
+    "size": 6,
+    "objective": "Mean_Degree"
+  },
+  "VR-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.071601194778274,
+    "significant": false,
+    "p-normality": 0.3741672150793056,
+    "gender": "gesamt",
+    "size": 30,
+    "objective": "Mean_Catch"
+  },
+  "VR-w-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.15141969933598434,
+    "significant": false,
+    "p-normality": 0.9338526899405843,
+    "gender": "w",
+    "size": 14,
+    "objective": "Mean_Catch"
+  },
+  "VR-m-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.3066578063713597,
+    "significant": false,
+    "p-normality": 0.6618065619799969,
+    "gender": "m",
+    "size": 16,
+    "objective": "Mean_Catch"
+  },
+  "RL-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 6.694001640108507e-06,
+    "significant": true,
+    "p-normality": 0.0004003469531465248,
+    "gender": "gesamt",
+    "size": 47,
+    "objective": "Mean_Catch"
+  },
+  "RL-w-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.005508100851636767,
+    "significant": true,
+    "p-normality": 0.007308884791452232,
+    "gender": "w",
+    "size": 22,
+    "objective": "Mean_Catch"
+  },
+  "RL-m-Mean_Catch": {
+    "test": "Wilcoxon signed-rank",
+    "p_value": 0.00024963350880605526,
+    "significant": true,
+    "p-normality": 0.007019901701493146,
+    "gender": "m",
+    "size": 25,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.13800706084984266,
+    "significant": false,
+    "p-normality": 0.1692152251122446,
+    "gender": "gesamt",
+    "size": 11,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-w-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.8796119659506051,
+    "significant": false,
+    "p-normality": 0.6307970445268122,
+    "gender": "w",
+    "size": 4,
+    "objective": "Mean_Catch"
+  },
+  "Kontrollgruppe-m-Mean_Catch": {
+    "test": "Paired t-test",
+    "p_value": 0.028084994498648857,
+    "significant": true,
+    "p-normality": 0.16767715753176496,
+    "gender": "m",
+    "size": 7,
+    "objective": "Mean_Catch"
+  }
+}
